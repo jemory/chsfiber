@@ -4,20 +4,40 @@
 		"selected_items":
 		[
 			[
+				"font",
+				"font-weight"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-origin"
+			],
+			[
 				"carousel-cap",
 				"carousel-caption-bkg"
 			],
 			[
 				"bor",
 				"border"
-			],
-			[
-				"font",
-				"font-weight"
-			],
-			[
-				"back",
-				"background-repeat"
 			],
 			[
 				"backgroun",
@@ -48,10 +68,6 @@
 				"background-image"
 			],
 			[
-				"marg",
-				"margin"
-			],
-			[
 				"padd",
 				"padding"
 			],
@@ -64,10 +80,6 @@
 				"carousel-caption"
 			],
 			[
-				"margin",
-				"margin-bottom"
-			],
-			[
 				"paddin",
 				"padding-left"
 			],
@@ -78,18 +90,6 @@
 			[
 				"fo",
 				"font-weight"
-			],
-			[
-				"fon",
-				"font-weight"
-			],
-			[
-				"padding",
-				"padding-top"
-			],
-			[
-				"bac",
-				"background-color"
 			],
 			[
 				"skroll",
@@ -115,7 +115,7 @@
 			"file": "/Users/jason/Sites/chsfiber/index.html",
 			"settings":
 			{
-				"buffer_size": 4495,
+				"buffer_size": 5656,
 				"line_ending": "Unix"
 			}
 		},
@@ -123,7 +123,7 @@
 			"file": "custom.css",
 			"settings":
 			{
-				"buffer_size": 16,
+				"buffer_size": 899,
 				"line_ending": "Unix",
 				"name": ".jumbotron {"
 			}
@@ -276,7 +276,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -284,15 +284,15 @@
 					"file": "/Users/jason/Sites/chsfiber/index.html",
 					"settings":
 					{
-						"buffer_size": 4495,
+						"buffer_size": 5656,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2768,
-								2768
+								3645,
+								3645
 							]
 						],
 						"settings":
@@ -302,7 +302,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 862.0,
+						"translation.y": 1396.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -312,15 +312,15 @@
 					"file": "custom.css",
 					"settings":
 					{
-						"buffer_size": 16,
+						"buffer_size": 899,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								14,
-								14
+								477,
+								477
 							]
 						],
 						"settings":
@@ -329,7 +329,7 @@
 							"syntax": "Packages/CSS/CSS.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 292.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
