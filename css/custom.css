@@ -1,0 +1,42 @@
+body {
+	font-family: "Open Sans";
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: "Open Sans";
+}
+
+h1 {
+	font-size: 4em;
+}
+
+.slogan {
+	margin-bottom: 2em;
+}
+
+.jumbotron {
+	background-image: url("../images/bridge.png");
+	background-position: center;
+	height:400px;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+}
+
+.jumbo-logo {
+	float: right;
+	width:350px;
+	margin-top: 150px;
+}
+
+.highlight {
+	color: #7ab800;
+}
+
+.marketing .col-lg-4 {
+	text-align: center;
+	margin-top: 2em;
+}
+
+.greybkg {
+	background-color: #EEEEEE;
+}
